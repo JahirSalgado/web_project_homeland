@@ -1,0 +1,19 @@
+.lead {
+  width: 984px;
+  height: 983px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.lead__title {
+  color: white;
+}
+
+.lead__subtitle {
+  color: white;
+}
+
+.lead__image {
+  width: 984px;
+  height: 615px;
+}
