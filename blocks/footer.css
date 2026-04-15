@@ -1,5 +1,8 @@
 .footer {
   margin-bottom: 0;
+  position: absolute;
+  top: 1968px;
+  left: 543px;
 }
 
 .footer__copyright {

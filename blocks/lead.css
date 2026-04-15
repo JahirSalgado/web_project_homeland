@@ -3,10 +3,23 @@
   height: 983px;
   margin: 0 auto;
   text-align: center;
+  position: absolute;
+  top: 194px;
+  left: 148px;
 }
 
 .lead__title {
   color: white;
+  width: 720px;
+  height: 200px;
+  font-size: 96px;
+  line-height: 100px;
+  letter-spacing: 0;
+  margin: 0;
+}
+
+.lead__title_font_ibm {
+  font-family: "Inter Black", serif;
 }
 
 .lead__subtitle {

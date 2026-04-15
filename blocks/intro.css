@@ -1,6 +1,9 @@
 .intro {
   width: 830px;
   height: 607px;
+  position: absolute;
+  top: 1269px;
+  left: 148px;
 }
 
 .intro__title {
