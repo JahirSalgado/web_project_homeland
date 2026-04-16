@@ -8,8 +8,35 @@
 
 .intro__title {
   color: white;
+  width: 830px;
+  height: 173.92px;
+}
+
+.intro__title_size_big {
+  font-family: "Inter Black", serif;
+  font-size: 54px;
+  line-height: 58px;
+  letter-spacing: 0;
 }
 
 .intro__text {
   color: white;
+}
+
+.intro__text_size_normal {
+  font-family: "Inter", serif;
+  font-size: 24px;
+  line-height: 34px;
+  letter-spacing: 0;
+  width: 738px;
+  height: 135.65px;
+}
+
+.intro__text_size_tiny {
+  font-family: "Inter", serif;
+  font-size: 16px;
+  line-height: 163%;
+  letter-spacing: 0;
+  width: 722px;
+  height: 181.54px;
 }
