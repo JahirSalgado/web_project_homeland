@@ -9,3 +9,13 @@
   color: white;
   text-align: center;
 }
+
+.footer__copyright_font_ibm {
+  font-family: "Inter", serif;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0;
+  width: 194;
+  height: 16px;
+  margin: 0;
+}

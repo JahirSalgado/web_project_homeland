@@ -10,16 +10,16 @@
 
 .lead__title {
   color: white;
+}
+
+.lead__title_font_ibm {
+  font-family: "Inter Black", serif;
   width: 720px;
   height: 200px;
   font-size: 96px;
   line-height: 100px;
   letter-spacing: 0;
-  margin: 0;
-}
-
-.lead__title_font_ibm {
-  font-family: "Inter Black", serif;
+  margin: 0 auto 32px;
 }
 
 .lead__subtitle {
@@ -33,9 +33,11 @@
   font-size: 30px;
   line-height: 36px;
   letter-spacing: 0;
+  margin: 0 auto 64px;
 }
 
 .lead__image {
   width: 984px;
   height: 615px;
+  margin: 0;
 }
