@@ -5,3 +5,9 @@
   height: 2008px;
   position: relative;
 }
+
+@media (min-width: 544px) and (max-width: 1024px) {
+  .page {
+    height: 1742px;
+  }
+}

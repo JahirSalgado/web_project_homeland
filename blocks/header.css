@@ -8,5 +8,15 @@
   height: 68.94px;
   position: absolute;
   top: 34px;
-  left: 513px;
+  margin: 0 auto 0;
+}
+
+@media (min-width: 544px) and (max-width: 1024px) {
+  .header__logo {
+    width: 254px;
+    height: 66px;
+    margin: 0 auto 0;
+    position: absolute;
+    top: 30px;
+  }
 }
