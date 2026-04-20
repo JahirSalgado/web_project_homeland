@@ -54,3 +54,43 @@
   height: 181.54px;
   margin: 0;
 }
+
+@media (min-width: 544px) and (max-width: 1024px) {
+  .intro {
+    width: 720px;
+    height: 573px;
+    position: absolute;
+    top: 1041px;
+    margin: 0 auto 0;
+  }
+
+  .intro__title {
+    width: 707px;
+    height: 147px;
+  }
+
+  .intro__title_font_ibm {
+    font-size: 45px;
+    line-height: 49px;
+    letter-spacing: 0;
+    margin: 0 0 50px;
+  }
+
+  .intro__text_size_normal {
+    width: 720px;
+    height: 136px;
+    margin: 0 0 8px;
+  }
+
+  .intro__text_size_mediun {
+    width: 720px;
+    height: 34px;
+    margin: 0 0 32px;
+  }
+
+  .intro__text_size_tiny {
+    width: 720px;
+    height: 182px;
+    margin: 0;
+  }
+}
