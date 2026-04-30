@@ -1,6 +1,6 @@
 .page {
   background-color: #292c2f;
-  width: 1280px;
+  width: 100%;
   margin: 0 auto;
   height: 2008px;
   position: relative;
@@ -9,5 +9,11 @@
 @media (min-width: 544px) and (max-width: 1024px) {
   .page {
     height: 1742px;
+  }
+}
+
+@media (max-width: 544px) {
+  .page {
+    height: 1705px;
   }
 }

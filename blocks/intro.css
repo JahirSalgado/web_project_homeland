@@ -94,3 +94,42 @@
     margin: 0;
   }
 }
+
+@media (max-width: 544px) {
+  .intro {
+    width: 288px;
+    height: 1033px;
+    position: absolute;
+    top: 570px;
+    margin: 0 auto 0;
+  }
+
+  .intro__title {
+    width: 288px;
+    height: 175px;
+  }
+
+  .intro__title_font_ibm {
+    font-size: 32px;
+    line-height: 35px;
+    letter-spacing: 0;
+    margin: 0 0 40px;
+  }
+
+  .intro__text_size_normal {
+    width: 288px;
+    height: 300px;
+    line-height: 30px;
+    margin: 0 0 10px;
+  }
+
+  .intro__text_size_mediun {
+    width: 288px;
+  }
+
+  .intro__text_size_tiny {
+    width: 288px;
+    height: 442px;
+    margin: 0;
+  }
+}

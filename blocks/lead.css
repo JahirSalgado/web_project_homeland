@@ -77,3 +77,39 @@
     margin: 0;
   }
 }
+
+@media (max-width: 544px) {
+  .lead {
+    text-align: center;
+    position: absolute;
+    margin: 0 auto 0;
+    width: 288px;
+    height: 144px;
+    top: 122px;
+  }
+
+  .lead__title_font_ibm {
+    width: 228px;
+    height: 88px;
+    font-size: 40px;
+    line-height: 44px;
+    margin: 0 auto 16px;
+  }
+
+  .lead__subtitle {
+    width: 288px;
+    height: 40px;
+  }
+
+  .lead__subtitle_font_ibm {
+    font-size: 16px;
+    line-height: 20px;
+    margin: 0 auto 40px;
+  }
+
+  .lead__image {
+    width: 100%;
+    height: 200px;
+    margin: 0;
+  }
+}
