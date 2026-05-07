@@ -44,6 +44,7 @@
 @media (min-width: 544px) and (max-width: 1024px) {
   .lead {
     height: 255px;
+    width: 100%;
     margin: 0 auto 0;
     text-align: center;
     position: absolute;
@@ -83,7 +84,7 @@
     text-align: center;
     position: absolute;
     margin: 0 auto 0;
-    width: 288px;
+    width: 100%;
     height: 144px;
     top: 122px;
   }
