@@ -61,7 +61,7 @@
   }
 
   .lead__subtitle {
-    width: 720px;
+    width: 93.75%;
     height: 72px;
   }
 
@@ -76,6 +76,7 @@
     width: 100%;
     height: 480px;
     margin: 0;
+    object-fit: cover;
   }
 }
 
@@ -90,7 +91,7 @@
   }
 
   .lead__title_font_ibm {
-    width: 228px;
+    width: 71.25%;
     height: 88px;
     font-size: 40px;
     line-height: 44px;
@@ -98,7 +99,7 @@
   }
 
   .lead__subtitle {
-    width: 288px;
+    width: 90%;
     height: 40px;
   }
 
@@ -112,5 +113,6 @@
     width: 100%;
     height: 200px;
     margin: 0;
+    object-fit: cover;
   }
 }
