@@ -8,6 +8,7 @@
 .places__place {
   height: 756px;
   width: 984px;
+  position: relative;
 }
 
 .places__title {
@@ -18,11 +19,14 @@
   line-height: 76px;
   letter-spacing: 0;
   color: white;
+  margin: 0;
 }
 
 .places__website {
-  height: 67px;
   width: 456px;
+  height: 67px;
+  position: absolute;
+  left: 651px;
 }
 
 .places__url-heading {
@@ -64,4 +68,34 @@
   letter-spacing: 0%;
   color: #fff;
   margin: 0;
+  position: absolute;
+  top: 2728px;
+  left: 651px;
+}
+
+.places__frame {
+  width: 289px;
+  height: 48px;
+  background: linear-gradient(to right, #0278fe, #003a7b);
+  display: flexbox;
+  align-content: center;
+  justify-content: center;
+}
+
+.places__paragraph-frame {
+  font-family: "Inter", serif;
+  color: #fff;
+  font-size: 18px;
+  margin: 0 auto 0;
+  line-height: auto;
+  letter-spacing: 0%;
+  height: 22px;
+  width: 249px;
+  text-align: center;
+}
+
+.places__paragraph-second {
+  position: absolute;
+  top: 2956px;
+  left: 651px;
 }
