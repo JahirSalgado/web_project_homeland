@@ -58,7 +58,7 @@
 @media (min-width: 544px) and (max-width: 1024px) {
   .intro {
     width: 93.75%;
-    height: 573px;
+    height: 539px;
     position: absolute;
     top: 1041px;
     left: 24px;
@@ -79,8 +79,8 @@
 
   .intro__text_size_normal {
     width: 100%;
-    height: 136px;
-    margin: 0 0 8px;
+    height: 102px;
+    margin: 0;
   }
 
   .intro__text_size_mediun {
